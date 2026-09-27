@@ -60,7 +60,8 @@ weekly schedule.
 Made a two-column table layout, one column as a menu and one as main
 content.
 
-*(screenshot here)*
+<img width="392" height="244" alt="Screenshot 2026-09-28 at 12 46 52 AM" src="https://github.com/user-attachments/assets/db007b3d-f082-4fb6-8344-5e305af31b4e" />
+
 
 ### Step 7 - Typing Emojis
 Added 3 emojis inside a paragraph describing my mood today.
