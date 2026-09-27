@@ -73,7 +73,8 @@ Added 3 emojis inside a paragraph describing my mood today.
 Made a form with Name (text), Email (email input), Favorite Color (color
 input) and a Submit button.
 
-*(screenshot here)*
+<img width="240" height="207" alt="Screenshot 2026-09-28 at 12 49 09 AM" src="https://github.com/user-attachments/assets/c823e830-b8b4-488c-86ee-9155d078e8f7" />
+
 
 ## Part 3 - Introduction to CSS
 
