@@ -31,7 +31,8 @@ and a `<p>` paragraph describing myself.
 Made an ordered list `<ol>` of my hobbies and an unordered list `<ul>` of my
 favorite websites.
 
-*(screenshot here)*
+<img width="381" height="140" alt="Screenshot 2026-09-28 at 12 37 10 AM" src="https://github.com/user-attachments/assets/c964d9e7-73fc-425c-a083-0d01bdfa1299" />
+
 
 ### Step 3 - Images and Links
 Added my photo with the `<img>` tag and two clickable links with `<a>`
