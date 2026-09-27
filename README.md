@@ -38,7 +38,8 @@ favorite websites.
 Added my photo with the `<img>` tag and two clickable links with `<a>`
 (YouTube and GitHub).
 
-*(screenshot here)*
+<img width="407" height="475" alt="Screenshot 2026-09-28 at 12 38 43 AM" src="https://github.com/user-attachments/assets/d238af0e-2351-4c0a-9cbb-2e7eb43590a8" />
+
 
 ### Step 4 - HTML Buttons
 Added a "Click Me" button (no functionality yet, just the tag).
