@@ -66,7 +66,8 @@ content.
 ### Step 7 - Typing Emojis
 Added 3 emojis inside a paragraph describing my mood today.
 
-*(screenshot here)*
+<img width="373" height="114" alt="Screenshot 2026-09-28 at 12 47 48 AM" src="https://github.com/user-attachments/assets/06f35dcb-910a-46a2-be13-dd03cf9f955a" />
+
 
 ### Step 8 - HTML Forms
 Made a form with Name (text), Email (email input), Favorite Color (color
