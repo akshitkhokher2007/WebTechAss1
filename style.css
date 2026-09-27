@@ -1,0 +1,107 @@
+/* step 13 - element selector */
+p {
+  font-size: 16px;
+  color: #333333;
+}
+
+/* step 13 - class selector */
+.highlight {
+  background-color: yellow;
+  font-family: 'Courier New', monospace;
+}
+
+/* step 14 - id selector for main heading */
+#main-heading {
+  color: darkblue;
+  text-align: center;
+}
+
+/* header, main content, footer divs - step 16 */
+.header {
+  background-color: #4682b4;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.footer {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+/* box model example - step 17 */
+.box-model-example {
+  border: 3px solid black;
+  margin: 20px;
+  padding: 15px;
+  background-color: #e6f2ff;
+}
+
+/* positioning - step 18 */
+.pos-static {
+  position: static;
+  background-color: lightgray;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.pos-relative {
+  position: relative;
+  left: 30px;
+  top: 5px;
+  background-color: lightgreen;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.pos-absolute {
+  position: absolute;
+  right: 20px;
+  background-color: lightcoral;
+  padding: 10px;
+}
+
+/* sizing units - step 19 */
+.size-px {
+  font-size: 20px;
+}
+
+.size-percent {
+  font-size: 150%;
+}
+
+.size-em {
+  font-size: 1.5em;
+}
+
+.size-rem {
+  font-size: 2rem;
+}
+
+/* float and clear - step 20 */
+.float-box-left {
+  float: left;
+  width: 45%;
+  background-color: lightblue;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.float-box-right {
+  float: right;
+  width: 45%;
+  background-color: lightpink;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.clear-fix {
+  clear: both;
+}

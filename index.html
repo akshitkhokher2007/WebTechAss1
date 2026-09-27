@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My First Webpage</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <!-- internal css, step 11 -->
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    h1 {
+      font-family: Verdana, sans-serif;
+    }
+  </style>
+
+  <!-- external css, step 12 -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Part 1: intro html -->
+
+  <div class="header">
+    <h1 id="main-heading">Akshit Khokher</h1>
+    <h2>Group: IT-2504</h2>
+    <h3>About Me</h3>
+  </div>
+
+  <div class="main-content">
+
+    <p style="color:blue;">Hi, my name is Akshit Khokher and I am a student learning web development. This is my first webpage and I made it using only HTML and CSS. I am still learning so it is pretty simple for now.</p>
+
+    <h3>My Hobbies</h3>
+    <ol>
+      <li>Playing football</li>
+      <li>Watching movies</li>
+      <li>Coding</li>
+      <li>Listening to music</li>
+    </ol>
+
+    <h3>My Favorite Websites</h3>
+    <ul>
+      <li>YouTube</li>
+      <li>GitHub</li>
+      <li>Stack Overflow</li>
+    </ul>
+
+    <h3>My Photo</h3>
+    <img src="photo.jpg" alt="my photo" width="200">
+
+    <p>
+      Here are two of my favorite websites:
+      <a href="https://www.youtube.com" target="_blank">YouTube</a> and
+      <a href="https://github.com" target="_blank">GitHub</a>.
+    </p>
+
+    <button>Click Me</button>
+
+    <!-- Part 2: intermediate html -->
+
+    <h3>My Weekly Schedule</h3>
+    <table border="1" cellpadding="5">
+      <tr>
+        <th>Subject</th>
+        <th>Day</th>
+        <th>Time</th>
+      </tr>
+      <tr>
+        <td>Math</td>
+        <td>Monday</td>
+        <td>09:00</td>
+      </tr>
+      <tr>
+        <td>English</td>
+        <td>Tuesday</td>
+        <td>11:00</td>
+      </tr>
+      <tr>
+        <td>Programming</td>
+        <td>Wednesday</td>
+        <td>13:00</td>
+      </tr>
+    </table>
+
+    <h3>Table Layout (optional challenge)</h3>
+    <table border="1" cellpadding="10">
+      <tr>
+        <td width="150">
+          <b>Menu</b><br>
+          Home<br>
+          About<br>
+          Contact
+        </td>
+        <td>
+          <b>Main Content</b><br>
+          This is the main content area next to the menu. This is just to show that tables can also be used for layout, not only for data.
+        </td>
+      </tr>
+    </table>
+
+    <h3>My Mood Today</h3>
+    <p>Today I am feeling pretty good 😄, a little tired 😴, but still motivated to finish this assignment 💪</p>
+
+    <h3>Contact Form</h3>
+    <form>
+      <label>Name:</label>
+      <input type="text" name="name"><br><br>
+
+      <label>Email:</label>
+      <input type="email" name="email"><br><br>
+
+      <label>Favorite Color:</label>
+      <input type="color" name="favcolor"><br><br>
+
+      <input type="submit" value="Submit">
+    </form>
+
+    <!-- Part 3 + 4: css stuff -->
+
+    <h3 class="highlight">Selectors Example</h3>
+    <p class="highlight">This paragraph uses a class selector called highlight.</p>
+    <p>This is a normal paragraph, no class on it.</p>
+
+    <div class="box-model-example">
+      <p>This box has border, margin and padding applied to it so I can see the box model in action.</p>
+    </div>
+
+    <h3>CSS Positioning</h3>
+    <div class="pos-static">Static position (default)</div>
+    <div class="pos-relative">Relative position (moved a bit)</div>
+    <div class="pos-absolute">Absolute position</div>
+
+    <h3>CSS Sizing</h3>
+    <h1 class="size-px">Heading sized in px</h1>
+    <h1 class="size-percent">Heading sized in %</h1>
+    <h1 class="size-em">Heading sized in em</h1>
+    <h1 class="size-rem">Heading sized in rem</h1>
+
+    <h3>Float and Clear</h3>
+    <div class="float-box-left">Left Box</div>
+    <div class="float-box-right">Right Box</div>
+    <div class="clear-fix"></div>
+
+  </div>
+
+  <div class="footer">
+    <p>&copy; 2026 My First Webpage - made for the frontend assignment</p>
+  </div>
+
+</body>
+</html>
