@@ -53,7 +53,8 @@ Added a "Click Me" button (no functionality yet, just the tag).
 Created a table with 3 columns (Subject, Day, Time) and filled it with my
 weekly schedule.
 
-*(screenshot here)*
+<img width="311" height="206" alt="Screenshot 2026-09-28 at 12 45 37 AM" src="https://github.com/user-attachments/assets/d118aa19-67c6-44f5-9466-756850f44b74" />
+
 
 ### Step 6 - Table Layout (optional challenge)
 Made a two-column table layout, one column as a menu and one as main
