@@ -1,3 +1,4 @@
+<img width="1451" height="725" alt="Screenshot 2026-09-28 at 12 58 14 AM" src="https://github.com/user-attachments/assets/e4140128-9854-480e-ba94-df32e6d3ff37" />
 # Frontend Assignment 1 - HTML & CSS Basics
 
 **Name:** Akshit Khokher
