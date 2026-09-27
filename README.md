@@ -44,7 +44,8 @@ Added my photo with the `<img>` tag and two clickable links with `<a>`
 ### Step 4 - HTML Buttons
 Added a "Click Me" button (no functionality yet, just the tag).
 
-*(screenshot here)*
+<img width="111" height="48" alt="Screenshot 2026-09-28 at 12 40 08 AM" src="https://github.com/user-attachments/assets/97b0a818-5ce1-440e-9369-16cc565d6c46" />
+
 
 ## Part 2 - Intermediate HTML
 
