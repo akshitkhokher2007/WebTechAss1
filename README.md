@@ -18,13 +18,14 @@ Created `index.html` with the basic HTML structure (`<!DOCTYPE html>`,
 `<html>`, `<head>`, `<title>`, `<body>`) and set the title to "My First
 Webpage".
 
-*(screenshot here)*
+
 
 ### Step 1 - Structure text using HTML tags
 Added `<h1>` for my name, `<h2>` for my group/course, `<h3>` for "About Me",
 and a `<p>` paragraph describing myself.
 
-*(screenshot here)*
+<img width="397" height="327" alt="Screenshot 2026-09-28 at 12 36 12 AM" src="https://github.com/user-attachments/assets/cf5ceae7-fab3-4324-8830-b57ebc5914b3" />
+
 
 ### Step 2 - HTML Lists
 Made an ordered list `<ol>` of my hobbies and an unordered list `<ul>` of my
