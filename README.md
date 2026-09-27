@@ -141,7 +141,7 @@ clearfix div to stop the overlap issue.
 ### Step 21 - Publish Website
 Published the page using GitHub Pages.
 
-**Live link:** [add your GitHub Pages link here]
+**Live link:** (https://github.com/akshitkhokher2007/WebTechAss1/tree/main)
 
 
 ## Summary
