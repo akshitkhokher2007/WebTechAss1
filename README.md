@@ -84,33 +84,27 @@ Started adding styling to the page.
 ### Step 10 - Inline CSS
 Changed the color of one paragraph directly with `style="color:blue;"`.
 
-*(screenshot here)*
-
 ### Step 11 - Internal CSS
 Added a `<style>` block inside `<head>` to set the body background color
 and change the heading font.
-
-*(screenshot here)*
 
 ### Step 12 - External CSS
 Made a separate `style.css` file and linked it with
 `<link rel="stylesheet" href="style.css">`, then moved most of my CSS rules
 into it.
 
-*(screenshot here)*
-
 ### Step 13 - CSS Syntax & Selectors
 Used an element selector (`p {}`), a class selector (`.highlight {}`) and
 an ID selector (`#main-heading {}`) with different colors/fonts to show the
 difference between them.
 
-*(screenshot here)*
-
 ### Step 14 - Classes vs IDs
 Created a `.highlight` class used on more than one element, and a
 `#main-heading` ID used only on my `<h1>`.
+<img width="822" height="608" alt="Screenshot 2026-09-28 at 12 56 02 AM" src="https://github.com/user-attachments/assets/72a5c3c0-9069-47fe-922b-bbd00d2ae161" />
+<img width="788" height="545" alt="Screenshot 2026-09-28 at 12 55 34 AM" src="https://github.com/user-attachments/assets/a84b1960-fa8e-4650-8d72-a3951229b9fd" />
+<img width="810" height="270" alt="Screenshot 2026-09-28 at 12 55 19 AM" src="https://github.com/user-attachments/assets/f7ab4179-80e7-4ba6-8451-4991572a1f13" />
 
-*(screenshot here)*
 
 ## Part 4 - Intermediate CSS
 
@@ -118,42 +112,37 @@ Created a `.highlight` class used on more than one element, and a
 Added a small favicon using
 `<link rel="icon" type="image/png" href="favicon.png">`.
 
-*(screenshot here)*
 
 ### Step 16 - HTML Divs
 Used `<div>` elements to group the page into header, main content, and
 footer sections, then styled each with background colors and padding.
 
-*(screenshot here)*
-
 ### Step 17 - Box Model
 Added border, margin, and padding to a box to see how the box model works.
-
-*(screenshot here)*
 
 ### Step 18 - CSS Positioning
 Made one element with static position, one with relative position (shifted
 slightly), and one with absolute position.
 
-*(screenshot here)*
 
 ### Step 19 - CSS Sizing
 Styled headings using different size units: px, %, em, and rem.
 
-*(screenshot here)*
+<img width="832" height="633" alt="Screenshot 2026-09-28 at 12 56 40 AM" src="https://github.com/user-attachments/assets/31acc822-78ad-48c4-8206-fc646f91e080" />
+
 
 ### Step 20 - Float and Clear
 Made two boxes, one floated left and one floated right, and used a
 clearfix div to stop the overlap issue.
 
-*(screenshot here)*
+<img width="815" height="124" alt="Screenshot 2026-09-28 at 12 56 58 AM" src="https://github.com/user-attachments/assets/7290c453-1deb-427c-ba68-470e4153e594" />
+
 
 ### Step 21 - Publish Website
 Published the page using GitHub Pages.
 
 **Live link:** [add your GitHub Pages link here]
 
-*(screenshot here)*
 
 ## Summary
 
